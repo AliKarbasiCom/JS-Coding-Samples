@@ -1,2 +1,1 @@
-# JS-Coding-Samples
-Javascript Coding Samples
+I'll share some Javascript codes here :D
